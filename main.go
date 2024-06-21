@@ -180,7 +180,7 @@ func main() {
 			if err != nil {
 				fmt.Println("Erreur :", err)
 			} else {
-				fmt.Println("Résultat :", result)
+				fmt.Println("le Résultat :", result)
 			}
 		case 8:
 			fmt.Println("Au revoir!")
